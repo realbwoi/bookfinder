@@ -1,0 +1,6 @@
+/node_modules
+/.env
+/scss
+/package.json
+/yarn.lock
+/package-lock.json
