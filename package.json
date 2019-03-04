@@ -1,0 +1,18 @@
+{
+  "name": "googleBooksAPI",
+  "version": "1.0.0",
+  "description": "Solo project for Chingu Pre-Work Session",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "node-sass": "^4.11.0",
+    "requirejs": "^2.3.6",
+    "scss": "^0.2.4"
+  },
+  "scripts": {
+    "start": "yarn index.js",
+    "scss": "node-sass --watch scss -o css",
+    "test": "API_KEY=AIzaSyCFHVvWGe7Bzs5Lr2pkh6bScHiGKTR-puE mocha --reporter spec"
+  }
+}
