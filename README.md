@@ -17,4 +17,6 @@ __This application should allow you to:__
 ## Key Concepts to Learn
 Making API calls and dealing with edge cases
 
+LIVE DEMO: [Book Finder App](https://realbwoi.github.io/bookfinder/)
+
 Project source from [Chingu.io](https://chingu.io/)
