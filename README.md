@@ -17,4 +17,4 @@ __This application should allow you to:__
 ## Key Concepts to Learn
 Making API calls and dealing with edge cases
 
-Project source from [https://chingu.io/](Chingu.io)
+Project source from [Chingu.io](https://chingu.io/)
